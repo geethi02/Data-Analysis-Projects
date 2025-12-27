@@ -1,15 +1,15 @@
-# Coffee Shop Sales Analysis Dashboard
+# Blinkit Sales Analysis Dashboard
 
-**Tools:** Power BI, MySQL, SQL, DAX
+**Tools:** Power BI, DAX
 
 **Description:**
-• Developed an end-to-end sales analysis dashboard using Power BI with data sourced from MySQL.
-• Performed data cleaning, transformation, and modeling using SQL and Power Query.
-• Created DAX measures to calculate key KPIs including Total Sales, Total Orders, and Quantity Sold.
-• Analyzed sales trends across time, store locations, and product categories.
-• Designed interactive visualizations to support data-driven decision making.
+• Developed an interactive sales analytics dashboard to analyze Blinkit retail sales performance.
+• Cleaned and transformed sales data and created data models using Power BI.
+• Built DAX measures for key KPIs including Total Sales, Average Sales, Number of Items, and Average Rating.
+• Analyzed sales by outlet location, outlet size, item type, and fat content to identify high-performing segments.
+• Designed interactive filters and visualizations to support data-driven business decisions.
 
 **Project Files:**
-- CoffeeShopDashboard.pbix
-- Coffee Shop Sales.csv
-- CoffeeShop.sql
+- BlinkitDashboard.pbix
+- blinkit.xlx
+- blinkit.ipynb
