@@ -1,15 +1,14 @@
-# Blinkit Sales Analysis Dashboard
+# Customer Churn Prediction Using Machine Learning
 
-**Tools:** Power BI, DAX
+**Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
 **Description:**
-• Developed an interactive sales analytics dashboard to analyze Blinkit retail sales performance.
-• Cleaned and transformed sales data and created data models using Power BI.
-• Built DAX measures for key KPIs including Total Sales, Average Sales, Number of Items, and Average Rating.
-• Analyzed sales by outlet location, outlet size, item type, and fat content to identify high-performing segments.
-• Designed interactive filters and visualizations to support data-driven business decisions.
+• Performed data cleaning and exploratory data analysis on customer churn data.
+• Analyzed customer behavior using visualizations and correlation analysis.
+• Built and evaluated classification models including Logistic Regression and Random Forest.
+• Compared model performance using accuracy and confusion matrix.
+• Predicted customer churn to support retention-focused business decisions.
 
 **Project Files:**
-- BlinkitDashboard.pbix
-- blinkit.xlx
-- blinkit.ipynb
+- ChurnAnalysis.ipynb
+- telco_churn.csv
