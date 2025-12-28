@@ -1,0 +1,19 @@
+# Coffee Shop Sales Analysis Dashboard
+
+## Tools
+Power BI, MySQL, SQL, DAX
+
+## Project Overview
+Developed an end-to-end sales analysis dashboard to analyze coffee shop sales performance using data sourced from MySQL.
+
+## Key Responsibilities
+- Performed data cleaning, transformation, and aggregation using SQL queries.
+- Built a Power BI dashboard with interactive visuals and filters.
+- Created DAX measures for Total Sales, Total Orders, and Quantity Sold.
+- Analyzed sales trends across time periods, store locations, and product categories.
+- Delivered insights to support data-driven business decisions.
+
+## Files Included
+- CoffeeShop.sql – SQL queries for data cleaning and analysis
+- CoffeeShopDashboard.pbix – Power BI dashboard file
+- Coffee Shop Sales.csv – Dataset used for analysis
